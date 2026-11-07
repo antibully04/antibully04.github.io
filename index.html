@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#1e5f74">
+<title>ANTIBULLY — Teman baik, sekolah aman</title>
+<link rel="stylesheet" href="src/style.css?v=7">
+</head>
+<body>
+
+<a class="skip-link" href="#main">Lompat ke konten</a>
+
+<div id="app">
+  <!-- ============ BOOT / LOADING ============ -->
+  <div id="boot" class="boot">
+    <div class="boot-mark">ANTIBULLY</div>
+    <p class="boot-sub">Teman baik, sekolah aman</p>
+    <div class="boot-bar"><span id="boot-fill"></span></div>
+    <p id="boot-msg" class="boot-msg">Memuat materi…</p>
+  </div>
+
+  <!-- ============ HEADER ============ -->
+  <header id="topbar" class="topbar" hidden>
+    <button id="btn-back" class="icon-btn" aria-label="Kembali" hidden>‹</button>
+    <h1 id="screen-title" class="topbar-title">ANTIBULLY</h1>
+    <div class="topbar-right">
+      <button id="btn-audio" class="icon-btn" aria-label="Nyala/matikan narasi" aria-pressed="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6.5 8.5H3v7h3.5L11 19z"/><path d="M15 9a4.2 4.2 0 0 1 0 6"/><path d="M17.5 6.5a8 8 0 0 1 0 11"/></svg></button>
+      <button id="btn-info" class="icon-btn" aria-label="Tentang aplikasi">ⓘ</button>
+    </div>
+    <div class="progress-track" id="progress-track" hidden><span id="progress-fill"></span></div>
+  </header>
+
+  <!-- ============ MAIN ============ -->
+  <main id="main" class="main" tabindex="-1"></main>
+
+  <!-- ============ BOTTOM NAV ============ -->
+  <nav id="nav" class="nav" hidden aria-label="Navigasi utama">
+    <button class="nav-btn" data-go="home"><span class="ic-w"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/><path d="M9.5 21v-6h5v6"/></svg></span><em>Menu</em></button>
+    <button class="nav-btn" data-go="edukasi"><span class="ic-w"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h14v16H6a2 2 0 0 0-2 2z"/><path d="M4 19a2 2 0 0 1 2-2h14"/></svg></span><em>Edukasi</em></button>
+    <button class="nav-btn" data-go="cerita"><span class="ic-w"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8 8 0 0 1-8 8H4l2.2-3.3A8 8 0 1 1 21 12z"/><path d="M8.5 11h.01M12 11h.01M15.5 11h.01"/></svg></span><em>Cerita</em></button>
+    <button class="nav-btn" data-go="kuis"><span class="ic-w"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8.5 12.2 2.4 2.4 4.6-5.2"/></svg></span><em>Kuis</em></button>
+    <button class="nav-btn" data-go="latihan"><span class="ic-w"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10 4a2 2 0 1 1 4 0v1h3a1 1 0 0 1 1 1v3h1a2 2 0 1 1 0 4h-1v3a1 1 0 0 1-1 1h-3v1a2 2 0 1 1-4 0v-1H7a1 1 0 0 1-1-1v-3H5a2 2 0 1 1 0-4h1V6a1 1 0 0 1 1-1h3z"/></svg></span><em>Latihan</em></button>
+  </nav>
+</div>
+
+<!-- ============ MODAL about ============ -->
+<div id="modal" class="modal" hidden>
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button id="modal-close" class="modal-close" aria-label="Tutup">×</button>
+    <h2 id="modal-title">Tentang</h2>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script>
+  // Indeks narasi Piper bersifat opsional (dibuat oleh tools/gen-narration.py).
+  // Dimuat dinamis supaya tidak menghasilkan 404 kalau belum digenerate.
+  (function () {
+    var s = document.createElement('script');
+    s.src = 'assets/audio/narration/id/audio-index.js';
+    s.onerror = function () { /* belum ada audio Piper — pakai suara browser */ };
+    document.head.appendChild(s);
+  })();
+</script>
+<script src="src/app.js?v=7" type="module"></script>
+</body>
+</html>

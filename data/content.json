@@ -1,0 +1,1005 @@
+{
+  "version": 1,
+  "topics": [
+    {
+      "id": "kenali",
+      "title": "Apa itu bullying?",
+      "subtitle": "Kenali tiga cirinya.",
+      "pages": [
+        {
+          "title": "Semua anak berhak merasa aman",
+          "text": "Bullying adalah tindakan yang sengaja menyakiti, terjadi berulang, dan melibatkan ketimpangan kekuatan.\n\nKekuatan bisa berupa tubuh yang lebih kuat, jumlah teman yang lebih banyak, atau pengaruh dalam kelompok.",
+          "reflection": "Mengapa semua teman perlu merasa aman?",
+          "character": "guru",
+          "mood": "talk"
+        },
+        {
+          "title": "Perhatikan tiga ciri",
+          "text": "1. Sengaja membuat teman tersakiti.\n2. Terjadi berulang.\n3. Ada ketimpangan kekuatan.\n\nContoh: seorang anak berulang kali diejek oleh kelompok yang lebih kuat meskipun ia sudah meminta berhenti.",
+          "reflection": "Apa tiga ciri yang baru kamu pelajari?",
+          "character": "adi",
+          "mood": "talk"
+        },
+        {
+          "title": "Sekali menyakiti tetap perlu ditangani",
+          "text": "Tindakan yang baru sekali terjadi tidak otomatis disebut bullying. Namun, tindakan yang menyakiti tetap perlu dihentikan dan diperbaiki.\n\nKamu boleh bercerita kepada orang dewasa saat merasa tidak aman.",
+          "reflection": "Kepada siapa kamu bisa bercerita?",
+          "character": "nisa",
+          "mood": "support"
+        }
+      ]
+    },
+    {
+      "id": "bercanda",
+      "title": "Bercanda dan konflik",
+      "subtitle": "Hargai batas dan perasaan teman.",
+      "pages": [
+        {
+          "title": "Bercanda yang nyaman",
+          "text": "Bercanda membuat semua yang terlibat nyaman. Jika teman meminta berhenti, berhentilah.\n\nKalimat yang bisa kamu ucapkan: \"Baik, aku berhenti. Terima kasih sudah memberitahuku.\"",
+          "reflection": "Apa yang dilakukan saat teman tidak nyaman?",
+          "character": "raka",
+          "mood": "talk"
+        },
+        {
+          "title": "Konflik bisa diselesaikan",
+          "text": "Konflik adalah perbedaan pendapat atau keinginan. Dua teman yang memiliki kekuatan seimbang bisa berdiskusi dengan tenang.\n\nDengarkan teman, bergantian berbicara, dan cari bantuan guru bila perlu.",
+          "reflection": "Bagaimana cara mendengarkan pendapat teman?",
+          "character": "guru",
+          "mood": "talk"
+        },
+        {
+          "title": "Dengarkan ketika teman berkata berhenti",
+          "text": "\"Aku tidak nyaman. Tolong berhenti.\"\n\nHargai kalimat itu. Jangan memaksa teman tertawa, terus bercanda, atau menyalahkan perasaannya. Bila belum aman, cari bantuan orang dewasa.",
+          "reflection": "Coba ucapkan kalimat untuk menyampaikan batasmu.",
+          "character": "nisa",
+          "mood": "stop"
+        }
+      ]
+    },
+    {
+      "id": "bentuk",
+      "title": "Tindakan yang menyakiti",
+      "subtitle": "Lihat perilakunya, bukan memberi label anak.",
+      "pages": [
+        {
+          "title": "Ucapan dan pengucilan",
+          "text": "Mengejek, memberi julukan yang tidak disukai, mengancam, atau sengaja mengucilkan teman dapat menyakiti.\n\nPerhatikan pengulangan, kesengajaan, dan ketimpangan kekuatan untuk mengenali bullying.",
+          "reflection": "Apa contoh ucapan yang menghargai teman?",
+          "character": "adi",
+          "mood": "talk"
+        },
+        {
+          "title": "Tubuh dan barang milik teman",
+          "text": "Mendorong, memukul, mengambil, atau merusak barang teman dapat membuat teman terluka atau takut.\n\nJaga jarak dari situasi berbahaya dan cari guru. Jangan membalas dengan menyakiti.",
+          "reflection": "Bagaimana menjaga barang milik teman?",
+          "character": "guru",
+          "mood": "talk"
+        },
+        {
+          "title": "Perilaku dapat diperbaiki",
+          "text": "Kita membicarakan tindakan yang perlu diubah. Kita tidak memberi cap bahwa seorang anak selalu jahat.\n\nSetiap anak bisa belajar menghargai teman, meminta maaf, dan memperbaiki tindakannya.",
+          "reflection": "Sebutkan satu tindakan baik yang ingin kamu coba.",
+          "character": "raka",
+          "mood": "support"
+        }
+      ]
+    },
+    {
+      "id": "perasaan",
+      "title": "Perasaan dan dampak",
+      "subtitle": "Tanya dengan lembut dan dengarkan.",
+      "pages": [
+        {
+          "title": "Perasaan teman itu penting",
+          "text": "Teman bisa merasa sedih, takut, marah, senang, atau tidak nyaman.\n\nPerasaan tiap orang bisa berbeda. Kita belajar mendengarkan apa yang diceritakan teman.",
+          "reflection": "Bagaimana perasaanmu hari ini?",
+          "character": "nisa",
+          "mood": "talk"
+        },
+        {
+          "title": "Jangan hanya menebak wajah",
+          "text": "Tanyakan dengan lembut: \"Bagaimana perasaanmu?\"\n\nDengarkan tanpa menertawakan. Teman boleh belum siap bercerita. Kamu tetap bisa menawarkan dukungan dan menemani mencari bantuan.",
+          "reflection": "Apa kalimat yang bisa kamu pakai untuk bertanya?",
+          "character": "adi",
+          "mood": "listen"
+        },
+        {
+          "title": "Dukung teman",
+          "text": "Kamu bisa berkata: \"Aku mau menemanimu.\" atau \"Mari cari bantuan guru.\"\n\nUcapan dan tindakan yang menghargai dapat membantu teman merasa didengar. Keselamatan tetap didahulukan.",
+          "reflection": "Kalimat dukungan apa yang ingin kamu ucapkan?",
+          "character": "raka",
+          "mood": "support"
+        }
+      ]
+    },
+    {
+      "id": "respons",
+      "title": "Respons yang aman",
+      "subtitle": "Menepi, bercerita, dan mencari bantuan.",
+      "pages": [
+        {
+          "title": "Dahulukan keselamatan",
+          "text": "Jika situasi berbahaya, menjauhlah ke tempat aman dan segera cari guru atau orang dewasa tepercaya.\n\nKamu tidak perlu membalas atau menghadapi orang yang lebih kuat sendirian.",
+          "reflection": "Di sekolah, di mana kamu bisa mencari guru?",
+          "character": "guru",
+          "mood": "talk"
+        },
+        {
+          "title": "Bantu teman dengan aman",
+          "text": "Jika aman, temani teman dan ajak mencari bantuan. Kamu boleh mengatakan tidak setuju pada tindakan yang menyakiti.\n\nJangan ikut menertawakan, mengucilkan, atau memaksa teman melawan.",
+          "reflection": "Apa yang bisa kamu lakukan sebagai teman?",
+          "character": "adi",
+          "mood": "support"
+        },
+        {
+          "title": "Boleh terus mencari bantuan",
+          "text": "Ceritakan apa yang terjadi kepada guru, orang tua, atau orang dewasa tepercaya.\n\nJika bantuan pertama belum membuatmu aman, ceritakan kepada orang dewasa tepercaya lainnya. Kamu berhak mendapat bantuan.",
+          "reflection": "Siapa dua orang dewasa yang kamu percaya?",
+          "character": "nisa",
+          "mood": "happy"
+        }
+      ]
+    },
+    {
+      "id": "teman_baik",
+      "title": "Kebiasaan teman baik",
+      "subtitle": "Latih kepedulian setiap hari.",
+      "pages": [
+        {
+          "title": "Ajak dan hargai",
+          "text": "Ajak teman bergabung jika aman. Beri kesempatan semua anggota kelompok berpendapat.\n\nPerbedaan kemampuan, penampilan, atau kebiasaan tidak menjadi alasan untuk merendahkan teman.",
+          "reflection": "Bagaimana mengajak teman masuk kelompok?",
+          "character": "raka",
+          "mood": "wave"
+        },
+        {
+          "title": "Tolong dan minta izin",
+          "text": "Bantu teman memungut pensil. Minta izin sebelum memakai barang miliknya. Kembalikan barang dengan baik.\n\nKerja sama dimulai dari tindakan kecil yang dilakukan berulang.",
+          "reflection": "Tindakan kecil apa yang bisa kamu lakukan hari ini?",
+          "character": "adi",
+          "mood": "happy"
+        },
+        {
+          "title": "Minta maaf dan perbaiki",
+          "text": "Jika menyakiti teman, akui tindakanmu, minta maaf, dan ubah perilakumu.\n\nTeman boleh membutuhkan waktu dan tidak harus langsung memaafkan. Guru dapat membantu percakapan tetap aman.",
+          "reflection": "Apa yang dilakukan setelah meminta maaf?",
+          "character": "guru",
+          "mood": "support"
+        }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "julukan",
+      "title": "Nama panggilan yang menyakitkan",
+      "subtitle": "Adi mendengarkan Nisa.",
+      "background": "classroom",
+      "characters": [
+        "adi",
+        "nisa"
+      ],
+      "ending": "Guru membantu menghentikan ejekan. Teman yang mengejek diajak memahami dampak dan memperbaiki tindakan. Nisa boleh membutuhkan waktu. Aku boleh merasa aman dan meminta bantuan.",
+      "steps": [
+        {
+          "phase": "Kenali",
+          "speaker": "nisa",
+          "mood": "sad",
+          "line": "Teman yang lebih kuat berulang kali mengejek Nisa. Nisa sudah meminta berhenti, tetapi ejekan diteruskan.",
+          "prompt": "Perilaku apa yang terjadi?",
+          "options": [
+            {
+              "text": "Ejekan menyakitkan yang berulang.",
+              "correct": true,
+              "feedback": "Benar. Ejekan itu sengaja menyakiti, berulang, dan ada ketimpangan kekuatan."
+            },
+            {
+              "text": "Candaan yang disukai semua teman.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Tidak perlu diperhatikan.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pahami",
+          "speaker": "nisa",
+          "mood": "worry",
+          "line": "Nisa berkata: \"Aku sedih dan tidak nyaman. Aku ingin ejekan itu berhenti.\"",
+          "prompt": "Apa yang Nisa ceritakan?",
+          "options": [
+            {
+              "text": "Ia senang diejek.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Ia sedih dan tidak nyaman.",
+              "correct": true,
+              "feedback": "Dengarkan perasaan yang Nisa ceritakan. Kita tidak memaksanya bercerita lebih banyak."
+            },
+            {
+              "text": "Perasaannya tidak penting.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pilih",
+          "speaker": "adi",
+          "mood": "support",
+          "line": "Adi melihat Nisa membutuhkan dukungan. Adi ingin membantu dengan aman.",
+          "prompt": "Apa yang bisa Adi lakukan?",
+          "options": [
+            {
+              "text": "Membalas ejekan.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Menemani Nisa mencari bantuan guru.",
+              "correct": true,
+              "feedback": "Menemani teman dan mencari bantuan adalah tindakan yang mendukung keselamatan."
+            },
+            {
+              "text": "Ikut tertawa.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Minta bantuan",
+          "speaker": "guru",
+          "mood": "listen",
+          "line": "Adi menemani Nisa. Mereka membutuhkan orang dewasa yang bisa membantu.",
+          "prompt": "Kepada siapa mereka bisa bercerita?",
+          "options": [
+            {
+              "text": "Orang asing yang tidak dikenal.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Tidak kepada siapa pun.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Guru atau orang dewasa tepercaya.",
+              "correct": true,
+              "feedback": "Guru mendengarkan dan membantu menghentikan tindakan yang menyakiti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pengucilan",
+      "title": "Teman ingin bergabung",
+      "subtitle": "Semua teman berhak dihargai.",
+      "background": "garden",
+      "characters": [
+        "adi",
+        "raka"
+      ],
+      "ending": "Adi menemani Raka mencari guru. Guru membantu agar kelompok menghargai teman dan memberi kesempatan bergabung. Mengajak teman dilakukan dengan tetap menjaga keselamatan.",
+      "steps": [
+        {
+          "phase": "Kenali",
+          "speaker": "raka",
+          "mood": "sad",
+          "line": "Sekelompok teman sengaja melarang Raka ikut bermain berulang kali. Kelompok itu lebih kuat dan tidak mendengarkan Raka.",
+          "prompt": "Apa yang perlu diperhatikan?",
+          "options": [
+            {
+              "text": "Raka pantas ditinggalkan.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Pengucilan yang disengaja dan berulang.",
+              "correct": true,
+              "feedback": "Mengucilkan secara sengaja dan berulang dengan ketimpangan kekuatan dapat menjadi bullying."
+            },
+            {
+              "text": "Semua teman sedang nyaman.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pahami",
+          "speaker": "raka",
+          "mood": "worry",
+          "line": "Raka berkata: \"Aku sedih karena selalu ditinggalkan. Aku ingin didengarkan.\"",
+          "prompt": "Apa respons yang menghargai perasaan Raka?",
+          "options": [
+            {
+              "text": "Dengarkan Raka dengan lembut.",
+              "correct": true,
+              "feedback": "Mendengarkan menunjukkan kepedulian. Raka boleh bercerita sesuai kenyamanannya."
+            },
+            {
+              "text": "Katakan bahwa ia berlebihan.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Tertawakan perasaannya.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pilih",
+          "speaker": "adi",
+          "mood": "support",
+          "line": "Adi ingin membantu Raka tanpa memperbesar masalah.",
+          "prompt": "Apa pilihan yang aman?",
+          "options": [
+            {
+              "text": "Ikut menjauhi Raka.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Memaksa kelompok dengan ancaman.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Temani Raka, ajak bergabung jika aman, dan cari guru.",
+              "correct": true,
+              "feedback": "Dukungan tidak perlu memakai ancaman. Guru dapat membantu menjaga situasi tetap aman."
+            }
+          ]
+        },
+        {
+          "phase": "Minta bantuan",
+          "speaker": "guru",
+          "mood": "listen",
+          "line": "Raka dan Adi menceritakan pengucilan yang terjadi. Mereka ingin ada perubahan.",
+          "prompt": "Apa yang bisa mereka ceritakan kepada guru?",
+          "options": [
+            {
+              "text": "Kejadian dan bantuan yang mereka butuhkan.",
+              "correct": true,
+              "feedback": "Ceritakan kejadian dengan jujur. Orang dewasa membantu menghentikan tindakan yang menyakiti."
+            },
+            {
+              "text": "Cerita palsu agar teman dihukum.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Tidak perlu bercerita lagi.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barang",
+      "title": "Barangku disembunyikan",
+      "subtitle": "Jaga barang dan rasa aman teman.",
+      "background": "classroom",
+      "characters": [
+        "adi",
+        "nisa"
+      ],
+      "ending": "Nisa menemani Adi mencari guru. Guru membantu mengembalikan barang dan menghentikan tindakan. Memakai barang teman harus dengan izin, dan barang dikembalikan dengan baik.",
+      "steps": [
+        {
+          "phase": "Kenali",
+          "speaker": "adi",
+          "mood": "worry",
+          "line": "Teman yang lebih kuat berulang kali menyembunyikan buku Adi untuk menakutinya. Adi sudah meminta buku dikembalikan.",
+          "prompt": "Apa yang terjadi pada Adi?",
+          "options": [
+            {
+              "text": "Ia sedang nyaman bermain.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Barangnya disembunyikan untuk menakuti.",
+              "correct": true,
+              "feedback": "Mengambil atau menyembunyikan barang untuk menakuti adalah tindakan yang menyakiti."
+            },
+            {
+              "text": "Ia harus membalas mengambil barang.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pahami",
+          "speaker": "adi",
+          "mood": "sad",
+          "line": "Adi berkata: \"Aku takut dan sulit belajar karena bukuku tidak ada.\"",
+          "prompt": "Mengapa tindakan itu perlu dihentikan?",
+          "options": [
+            {
+              "text": "Adi takut dan belajarnya terganggu.",
+              "correct": true,
+              "feedback": "Tindakan terhadap barang dapat memengaruhi perasaan dan kegiatan belajar teman."
+            },
+            {
+              "text": "Barang teman tidak penting.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Supaya semua ikut menertawakan.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pilih",
+          "speaker": "nisa",
+          "mood": "support",
+          "line": "Nisa mendengar cerita Adi. Mereka ingin mencari langkah yang aman.",
+          "prompt": "Apa yang bisa Nisa lakukan?",
+          "options": [
+            {
+              "text": "Merebut barang dengan berkelahi.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Menemani Adi dan mencari bantuan guru.",
+              "correct": true,
+              "feedback": "Temani teman dan minta bantuan. Hindari berebut atau berkelahi."
+            },
+            {
+              "text": "Menyembunyikan barang lain.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Minta bantuan",
+          "speaker": "guru",
+          "mood": "listen",
+          "line": "Adi bercerita kepada guru tentang bukunya dan rasa takutnya.",
+          "prompt": "Jika bantuan pertama belum membuat Adi aman, bagaimana?",
+          "options": [
+            {
+              "text": "Berhenti mencari bantuan selamanya.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Balas diam-diam.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Bercerita kepada orang dewasa tepercaya lainnya.",
+              "correct": true,
+              "feedback": "Kamu boleh terus mencari bantuan sampai mendapat dukungan untuk merasa aman."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dorongan",
+      "title": "Menepi dan mencari bantuan",
+      "subtitle": "Keselamatan didahulukan.",
+      "background": "courtyard",
+      "characters": [
+        "adi",
+        "nisa"
+      ],
+      "ending": "Adi dan Nisa berada di tempat aman dan mencari guru. Guru membantu menghentikan dorongan serta memperhatikan kondisi Nisa. Kita tidak perlu membalas atau menghadapi bahaya sendirian.",
+      "steps": [
+        {
+          "phase": "Kenali",
+          "speaker": "nisa",
+          "mood": "worry",
+          "line": "Anak yang lebih kuat sengaja mendorong Nisa berulang kali. Adi dan Nisa sudah menepi dari situasi itu.",
+          "prompt": "Perilaku apa yang perlu dihentikan?",
+          "options": [
+            {
+              "text": "Dorongan sengaja yang menyakiti.",
+              "correct": true,
+              "feedback": "Tindakan fisik yang menyakiti perlu dihentikan. Keselamatan anak didahulukan."
+            },
+            {
+              "text": "Ajakan bermain yang nyaman.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Perbedaan pendapat biasa.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pahami",
+          "speaker": "nisa",
+          "mood": "sad",
+          "line": "Nisa berkata: \"Aku takut. Aku ingin berada dekat guru.\"",
+          "prompt": "Apa yang Nisa butuhkan sekarang?",
+          "options": [
+            {
+              "text": "Disuruh diam.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Ditemani ke tempat aman dan mencari guru.",
+              "correct": true,
+              "feedback": "Dengarkan kebutuhan Nisa dan bantu mencari tempat aman serta orang dewasa."
+            },
+            {
+              "text": "Ditantang membalas.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pilih",
+          "speaker": "adi",
+          "mood": "support",
+          "line": "Adi ingin membantu. Ia tidak perlu menghadapi anak yang lebih kuat sendirian.",
+          "prompt": "Apa tindakan yang aman?",
+          "options": [
+            {
+              "text": "Membalas dorongan.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Mengajak berkelahi.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Tetap di tempat aman dan segera mencari guru.",
+              "correct": true,
+              "feedback": "Menjauh dari bahaya dan mencari bantuan lebih aman daripada membalas."
+            }
+          ]
+        },
+        {
+          "phase": "Minta bantuan",
+          "speaker": "guru",
+          "mood": "listen",
+          "line": "Guru mendengarkan Nisa dan Adi. Mereka menceritakan kejadian yang dialami.",
+          "prompt": "Apa yang sebaiknya mereka ceritakan?",
+          "options": [
+            {
+              "text": "Apa yang terjadi dan apakah ada yang sakit.",
+              "correct": true,
+              "feedback": "Ceritakan kejadian dan kondisi teman. Orang dewasa dapat memberikan bantuan yang diperlukan."
+            },
+            {
+              "text": "Sembunyikan semuanya.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Salahi Nisa karena takut.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "memperbaiki",
+      "title": "Maaf, aku akan memperbaikinya",
+      "subtitle": "Belajar bertanggung jawab.",
+      "background": "creative_room",
+      "characters": [
+        "adi",
+        "raka"
+      ],
+      "ending": "Adi mengakui ucapannya, meminta maaf, dan berbicara lebih sopan. Raka boleh membutuhkan waktu. Guru dapat membantu mereka berdiskusi. Permintaan maaf diikuti perubahan tindakan.",
+      "steps": [
+        {
+          "phase": "Kenali",
+          "speaker": "adi",
+          "mood": "worry",
+          "line": "Adi sekali mengucapkan kalimat kasar saat kerja kelompok. Raka berkata bahwa ucapan itu menyakitinya.",
+          "prompt": "Bagaimana memahami kejadian ini?",
+          "options": [
+            {
+              "text": "Sekali menyakiti boleh diabaikan.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Ucapan perlu diperbaiki; tidak otomatis disebut bullying.",
+              "correct": true,
+              "feedback": "Sekali menyakiti tidak otomatis bullying, tetapi tindakan tetap perlu dihentikan dan diperbaiki."
+            },
+            {
+              "text": "Raka harus langsung tertawa.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pahami",
+          "speaker": "raka",
+          "mood": "sad",
+          "line": "Raka berkata: \"Aku sedih mendengar ucapan itu. Aku belum ingin bicara banyak.\"",
+          "prompt": "Apa yang Adi perlu lakukan?",
+          "options": [
+            {
+              "text": "Dengarkan dan hargai batas Raka.",
+              "correct": true,
+              "feedback": "Dengarkan teman. Ia boleh membutuhkan waktu dan belum siap bercerita."
+            },
+            {
+              "text": "Paksa Raka langsung bicara.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Salahkan Raka karena sedih.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Pilih",
+          "speaker": "adi",
+          "mood": "support",
+          "line": "Adi ingin memperbaiki ucapannya dan menjaga kerja kelompok tetap nyaman.",
+          "prompt": "Kalimat mana yang menunjukkan tanggung jawab?",
+          "options": [
+            {
+              "text": "Kamu saja terlalu sensitif.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Maaf. Ucapanku menyakiti. Aku akan berbicara lebih sopan.",
+              "correct": true,
+              "feedback": "Akui tindakan, minta maaf, dan ikuti dengan perubahan. Jangan memaksa teman memaafkan."
+            },
+            {
+              "text": "Maaf, jadi kamu harus memaafkan sekarang.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        },
+        {
+          "phase": "Minta bantuan bila perlu",
+          "speaker": "guru",
+          "mood": "listen",
+          "line": "Adi dan Raka dapat meminta pendampingan jika percakapan masih terasa sulit.",
+          "prompt": "Siapa yang bisa membantu mereka berdiskusi dengan aman?",
+          "options": [
+            {
+              "text": "Guru atau orang dewasa tepercaya.",
+              "correct": true,
+              "feedback": "Guru dapat membantu percakapan. Perasaan dan batas setiap anak tetap dihargai."
+            },
+            {
+              "text": "Orang asing yang tidak dikenal.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            },
+            {
+              "text": "Teman yang mengajak mengancam.",
+              "correct": false,
+              "feedback": "Pilihan itu belum membantu teman merasa aman. Dengarkan situasinya, lalu coba respons yang menghargai teman."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q01",
+      "topic": "kenali",
+      "prompt": "Apa tiga ciri bullying?",
+      "options": [
+        "Semua bercanda dan merasa nyaman.",
+        "Sengaja menyakiti, berulang, dan ada ketimpangan kekuatan.",
+        "Dua teman sekali berbeda pendapat."
+      ],
+      "correct": 1,
+      "explanation": "Bullying memuat ketiga ciri tersebut. Sekali menyakiti tetap perlu ditangani."
+    },
+    {
+      "id": "q02",
+      "topic": "bercanda",
+      "prompt": "Teman meminta candaan dihentikan. Apa tindakanmu?",
+      "options": [
+        "Berhenti dan hargai perasaannya.",
+        "Lanjut karena hanya bercanda.",
+        "Ajak teman lain menertawakan."
+      ],
+      "correct": 0,
+      "explanation": "Menghargai batas teman membuat interaksi lebih aman dan nyaman."
+    },
+    {
+      "id": "q03",
+      "topic": "bentuk",
+      "prompt": "Teman berulang kali dikucilkan. Apa langkah yang aman?",
+      "options": [
+        "Ikut menjauh.",
+        "Menyalahkan teman itu.",
+        "Ajak bergabung jika aman dan cari bantuan guru."
+      ],
+      "correct": 2,
+      "explanation": "Temani teman dan cari bantuan tanpa ikut menyakiti."
+    },
+    {
+      "id": "q04",
+      "topic": "respons",
+      "prompt": "Kamu takut karena didorong. Apa yang dapat kamu lakukan?",
+      "options": [
+        "Membalas dengan dorongan.",
+        "Pergi ke tempat aman dan segera cari guru.",
+        "Rahasiakan agar tidak diketahui."
+      ],
+      "correct": 1,
+      "explanation": "Keselamatanmu lebih dulu. Orang dewasa dapat membantu."
+    },
+    {
+      "id": "q05",
+      "topic": "teman_baik",
+      "prompt": "Setelah menyakiti perasaan teman, apa tindakan yang baik?",
+      "options": [
+        "Meminta maaf dan memperbaiki tindakan.",
+        "Memaksa teman langsung memaafkan.",
+        "Menyalahkan teman karena sedih."
+      ],
+      "correct": 0,
+      "explanation": "Permintaan maaf diikuti perubahan tindakan. Teman boleh membutuhkan waktu."
+    },
+    {
+      "id": "q06",
+      "topic": "bercanda",
+      "prompt": "Dua teman yang memiliki kekuatan seimbang sekali berbeda pendapat saat memilih permainan. Apa yang dapat mereka lakukan?",
+      "options": [
+        "Menganggap semua perbedaan pendapat sebagai bullying.",
+        "Berdiskusi, bergantian berbicara, dan mencari kesepakatan.",
+        "Saling mengejek."
+      ],
+      "correct": 1,
+      "explanation": "Konflik berbeda dari bullying. Perbedaan pendapat dapat dibicarakan dengan saling menghargai."
+    },
+    {
+      "id": "q07",
+      "topic": "bentuk",
+      "prompt": "Teman menyembunyikan bukumu untuk menakuti. Apa langkah yang aman?",
+      "options": [
+        "Anggap kamu tidak boleh meminta bantuan.",
+        "Balas menyembunyikan barangnya.",
+        "Ceritakan kepada guru dan minta bantuan."
+      ],
+      "correct": 2,
+      "explanation": "Menyembunyikan barang untuk menakuti adalah tindakan yang perlu ditangani. Hindari membalas."
+    },
+    {
+      "id": "q08",
+      "topic": "perasaan",
+      "prompt": "Kamu ingin memahami perasaan teman. Apa yang bisa kamu lakukan?",
+      "options": [
+        "Bertanya dengan lembut dan mendengarkan jawabannya.",
+        "Memutuskan perasaannya tanpa bertanya.",
+        "Memaksa ia bercerita semua hal."
+      ],
+      "correct": 0,
+      "explanation": "Perasaan tiap orang dapat berbeda. Dengarkan dan hargai batas teman."
+    },
+    {
+      "id": "q09",
+      "topic": "teman_baik",
+      "prompt": "Ada anggota kelompok yang belum mendapat kesempatan berbicara. Apa tindakanmu?",
+      "options": [
+        "Biarkan ia selalu diam.",
+        "Ajak ia berpendapat dan dengarkan.",
+        "Tertawakan jawabannya."
+      ],
+      "correct": 1,
+      "explanation": "Kerja sama memberi kesempatan kepada semua teman untuk ikut berpartisipasi."
+    },
+    {
+      "id": "q10",
+      "topic": "respons",
+      "prompt": "Kamu sudah bercerita, tetapi belum merasa aman. Apa yang dapat kamu lakukan?",
+      "options": [
+        "Berhenti mencari bantuan.",
+        "Membalas sendiri.",
+        "Bercerita kepada orang dewasa tepercaya lainnya."
+      ],
+      "correct": 2,
+      "explanation": "Kamu boleh terus mencari bantuan sampai mendapat dukungan untuk merasa aman."
+    }
+  ],
+  "sorting": [
+    {
+      "text": "Mengajak teman bergabung bermain.",
+      "category": "help",
+      "explanation": "Mengajak bergabung menunjukkan kepedulian jika situasinya aman."
+    },
+    {
+      "text": "Membantu teman memungut pensil.",
+      "category": "help",
+      "explanation": "Menolong dalam hal kecil adalah kebiasaan teman baik."
+    },
+    {
+      "text": "Meminta izin sebelum memakai buku teman.",
+      "category": "help",
+      "explanation": "Meminta izin menunjukkan bahwa kita menghargai barang teman."
+    },
+    {
+      "text": "Terus mengejek meskipun teman meminta berhenti.",
+      "category": "hurt",
+      "explanation": "Ejekan itu menyakiti. Berhentilah dan hargai batas teman."
+    },
+    {
+      "text": "Menyembunyikan barang teman untuk menakuti.",
+      "category": "hurt",
+      "explanation": "Menakuti lewat barang milik teman dapat membuatnya tidak aman."
+    },
+    {
+      "text": "Sengaja mendorong teman.",
+      "category": "hurt",
+      "explanation": "Tindakan fisik yang menyakiti perlu dihentikan dan ditangani dengan bantuan orang dewasa."
+    }
+  ],
+  "feelings": [
+    {
+      "character": "nisa",
+      "mood": "sad",
+      "quote": "Aku sedih karena tidak diajak bergabung.",
+      "emotion": "Sedih",
+      "support": [
+        "Salahmu sendiri.",
+        "Aku mau menemanimu mencari bantuan.",
+        "Jangan cerita kepada siapa pun."
+      ],
+      "correct": 1,
+      "explanation": "Dengarkan perasaan teman dan tawarkan dukungan tanpa menyalahkan."
+    },
+    {
+      "character": "adi",
+      "mood": "worry",
+      "quote": "Aku takut karena diancam. Aku ingin mencari guru.",
+      "emotion": "Takut",
+      "support": [
+        "Ayo ke tempat aman dan cari guru.",
+        "Balas ancamannya.",
+        "Kamu harus menghadapinya sendiri."
+      ],
+      "correct": 0,
+      "explanation": "Tempat aman dan bantuan orang dewasa didahulukan."
+    },
+    {
+      "character": "raka",
+      "mood": "stop",
+      "quote": "Aku marah karena bukuku dirusak. Aku perlu bantuan.",
+      "emotion": "Marah",
+      "support": [
+        "Rusak bukunya juga.",
+        "Aku tidak peduli.",
+        "Aku dengarkan. Mari cari bantuan guru."
+      ],
+      "correct": 2,
+      "explanation": "Perasaan marah boleh diceritakan. Kita tetap memilih tindakan yang aman."
+    },
+    {
+      "character": "nisa",
+      "mood": "happy",
+      "quote": "Aku senang karena teman-teman memberiku kesempatan berpendapat.",
+      "emotion": "Senang",
+      "support": [
+        "Kamu tidak boleh ikut lagi.",
+        "Aku senang kita bisa bekerja sama.",
+        "Pendapatmu tidak penting."
+      ],
+      "correct": 1,
+      "explanation": "Kerja sama dan kesempatan berpendapat membuat kelompok lebih nyaman."
+    },
+    {
+      "character": "adi",
+      "mood": "worry",
+      "quote": "Aku tidak nyaman dengan panggilan itu. Aku ingin mereka berhenti.",
+      "emotion": "Tidak nyaman",
+      "support": [
+        "Baik, aku menghargai batasmu.",
+        "Kamu harus suka panggilan itu.",
+        "Aku akan terus mengulanginya."
+      ],
+      "correct": 0,
+      "explanation": "Hargai batas teman dan berhenti saat ia meminta."
+    }
+  ],
+  "missions": [
+    {
+      "id": "m01",
+      "topic": "bentuk",
+      "prompt": "Temanmu dikucilkan dari kelompok. Apa aksi yang aman?",
+      "options": [
+        "Ikut menjauhi.",
+        "Temani, ajak bergabung jika aman, dan cari guru.",
+        "Tertawakan."
+      ],
+      "correct": 1,
+      "explanation": "Dukungan dan bantuan guru membantu teman tanpa ikut menyakiti."
+    },
+    {
+      "id": "m02",
+      "topic": "respons",
+      "prompt": "Barang teman diambil untuk menakuti. Apa yang bisa kamu lakukan?",
+      "options": [
+        "Rebut sambil berkelahi.",
+        "Sembunyikan barang orang lain.",
+        "Temani teman bercerita kepada guru."
+      ],
+      "correct": 2,
+      "explanation": "Hindari berebut atau membalas. Cari bantuan orang dewasa."
+    },
+    {
+      "id": "m03",
+      "topic": "respons",
+      "prompt": "Kamu melihat teman didorong dan takut. Apa aksi yang tepat?",
+      "options": [
+        "Ajak ke tempat aman dan segera cari guru.",
+        "Ajak membalas.",
+        "Pura-pura tidak melihat."
+      ],
+      "correct": 0,
+      "explanation": "Keselamatan didahulukan. Guru dapat membantu menghentikan tindakan fisik."
+    },
+    {
+      "id": "m04",
+      "topic": "teman_baik",
+      "prompt": "Kamu sekali berbicara kasar dan temanmu sedih. Apa yang kamu lakukan?",
+      "options": [
+        "Paksa teman segera memaafkan.",
+        "Minta maaf dan perbaiki ucapanmu.",
+        "Salahkan teman."
+      ],
+      "correct": 1,
+      "explanation": "Permintaan maaf diikuti perubahan. Teman boleh membutuhkan waktu."
+    },
+    {
+      "id": "m05",
+      "topic": "teman_baik",
+      "prompt": "Kerja kelompok belum melibatkan semua anggota. Apa aksimu?",
+      "options": [
+        "Kerjakan sendiri dan abaikan teman.",
+        "Larangan untuk teman yang berbeda.",
+        "Ajak semua anggota berpendapat dan berbagi tugas."
+      ],
+      "correct": 2,
+      "explanation": "Kerja sama menghargai perbedaan dan memberi kesempatan ikut serta."
+    }
+  ],
+  "guide": "[b]Cara mendampingi satu sesi[/b]\nMulai dari Edukasi, pilih satu Cerita, coba satu Game, lalu gunakan Kuis. Semua menu bisa dibuka langsung. Sesi awal dapat berlangsung sekitar 10–15 menit dan disesuaikan kebutuhan siswa.\n\n[b]Empat pertanyaan pemantik[/b]\n• Perilaku apa yang terjadi?\n• Bagaimana perasaan teman?\n• Apa tindakan yang aman dan menghargai teman?\n• Kepada siapa kita bisa meminta bantuan?\n\n[b]Latihan dan evaluasi[/b]\nMode latihan menjelaskan setiap pilihan dan membolehkan mencoba lagi. Mode evaluasi mencatat pilihan pertama; pembahasan ditampilkan setelah sepuluh soal selesai. Hasil dipakai untuk menentukan materi yang perlu diulang.\n\n[b]Observasi perilaku[/b]\nAmati kemampuan mengenali tindakan, memahami dampak, memilih respons aman, menolong, bekerja sama, mendengarkan, menghargai batas, dan meminta bantuan. Catat contoh perilaku nyata, bukan hanya angka kuis.\n\n[b]Target proposal[/b]\nMinimal 80% dari 51 siswa (sekurang-kurangnya 41 siswa) mampu mengenali bullying dan memilih respons tepat. Seluruh peserta pelatihan diharapkan dapat memakai media sesuai perannya. Kriteria evaluasi ditetapkan bersama guru sebelum uji coba; angka ini bukan otomatis nilai batas kuis.\n\n[b]Penggunaan bersama[/b]\nTekan “Sesi baru” saat perangkat berganti pengguna. Kemajuan sesi sebelumnya disimpan sebagai riwayat lokal tanpa nama siswa. Pengaturan suara tetap tersimpan.\n\n[b]Narasi dan kenyamanan[/b]\nSuara memakai TTS bahasa Indonesia pada perangkat. Bila belum tersedia, pasang suara Indonesia di pengaturan sistem. Untuk pemakaian offline, siapkan suara offline terlebih dahulu. Teks tetap dapat dibaca. Musik, efek, narasi, dan animasi dapat diatur terpisah.\n\n[b]Pembiasaan setelah bermain[/b]\nAjak siswa memilih satu tindakan baik hari ini: mengajak teman bergabung, meminta izin, menolong, mendengarkan, atau bercerita kepada guru. Jangan memberi cap “anak jahat” atau memaksa anak memaafkan.\n",
+  "about": "[b]ANTIBULLY[/b]\nTeman baik, sekolah aman.\n\nMultimedia edukasi 2D untuk siswa sekolah dasar: mengenali tindakan yang menyakiti, memahami perasaan teman, memilih respons aman, dan mencari bantuan orang dewasa tepercaya.\n\n[b]Tim pengusul[/b]\nDirektorat Kampus Purwokerto\n\n[b]Ketua tim[/b]\nDASRIL ALDO, S.Kom., M.Kom.\n\n[b]Anggota tim[/b]\n1. ANGGA KURNIAWAN, S.Pd., M.Kom.\n2. ADANTI WIDO PARAMADINI, S.T., M.Eng.\n\n[b]Anggota tim mahasiswa[/b]\n1. MUHAMMAD NAFAL FIQRIAN\n   NIM: 101132400003\n2. ICHYA ULUMIDDIIN\n   NIM: 103112400076\n3. MUHAMMAD ZAKY MUBAROK\n   NIM: 103112400073\n4. ELISA KUSUMANINGSIH\n   NIM: 101132400034\n\n[b]Mitra sekolah[/b]\nSD Negeri 1 Muntang\n\n[b]Isi versi 1[/b]\n6 topik edukasi • 5 cerita interaktif • 10 soal kuis • 3 mini game.\n\n[b]Penggunaan[/b]\nMateri dan gambar dibundel untuk penggunaan offline. Kemajuan disimpan di perangkat, tanpa login. Bantuan diajarkan melalui percakapan dengan orang dewasa tepercaya.\n\n[b]Sumber rancangan[/b]\nProposal ANTIBULLY dan Draft Game Android ANTIBULLY yang disediakan pengguna. Aset tokoh serta latar berasal dari arsip material pengguna. Logo, antarmuka, kode, dan efek suara disusun untuk project ini.\n\n[b]Sebelum diterapkan di sekolah[/b]\nTinjau bahasa dan kegiatan bersama guru. Uji tombol, tulisan, audio, dan animasi pada perangkat Android yang dipakai siswa. Panduan dan lembar observasi ada pada folder docs di paket project.\n\n[b]Teknologi[/b]\nDibuat dengan Godot Engine, perangkat lunak bebas dengan lisensi MIT. https://godotengine.org/license/\n"
+}
